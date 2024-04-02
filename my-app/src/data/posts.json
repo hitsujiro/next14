@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "nextjs13-udemy",
+      "title": "Next.js14をUdemyで学ぶ",
+      "content": "Next.js14を学んでいます！",
+      "createdAt": "2023-07-17"
+    },
+    {
+      "id": "no-store-and-no-cache",
+      "title": "Next.js14. no-storeとno-cacheの違い",
+      "content": "pages ディレクトリではページのルーティングはファイル名によって決まっていましたよ。",
+      "createdAt": "2023-07-16"
+    },
+    {
+      "id": "test",
+      "title": "test",
+      "content": "test",
+      "createdAt": "2023-07-31T07:03:46.953Z"
+    }
+  ]
+}
